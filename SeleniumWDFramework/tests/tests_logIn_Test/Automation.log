@@ -1,0 +1,82 @@
+17/09/2021 , 11:49:59 , AM : Selenium_Driver : INFO : Element found for xpathlocator type and //a[@href = '/login']locator
+17/09/2021 , 11:50:00 , AM : Selenium_Driver : INFO : The element to be click with Locator Type:xpath and locator as ://a[@href = '/login']is clicked
+17/09/2021 , 11:50:00 , AM : Selenium_Driver : INFO : Element found for xpathlocator type and //input[@id= 'email']locator
+17/09/2021 , 11:50:00 , AM : Selenium_Driver : INFO : The element to be click with Locator Type:xpath and locator as ://input[@id= 'email']is clicked
+17/09/2021 , 11:50:00 , AM : Selenium_Driver : INFO : Element found for xpathlocator type and //input[@id ='password']locator
+17/09/2021 , 11:50:00 , AM : Selenium_Driver : INFO : The element to be click with Locator Type:xpath and locator as ://input[@id ='password']is clicked
+17/09/2021 , 11:50:01 , AM : Selenium_Driver : INFO : Element found for xpathlocator type and //input[@class ='btn btn-default btn-block btn-md dynamic-button']locator
+17/09/2021 , 11:50:03 , AM : Selenium_Driver : INFO : The element to be click with Locator Type:xpath and locator as ://input[@class ='btn btn-default btn-block btn-md dynamic-button']is clicked
+17/09/2021 , 11:50:06 , AM : Selenium_Driver : INFO : Element not found for xpathlocator type and //span[contains(text(),'Your username or password is invalid. Please try again.')]locator
+17/09/2021 , 11:50:41 , AM : Selenium_Driver : INFO : Element found for xpathlocator type and //a[@href = '/login']locator
+17/09/2021 , 11:50:41 , AM : Selenium_Driver : INFO : The element to be click with Locator Type:xpath and locator as ://a[@href = '/login']is clicked
+17/09/2021 , 11:50:41 , AM : Selenium_Driver : INFO : Element found for xpathlocator type and //input[@id= 'email']locator
+17/09/2021 , 11:50:41 , AM : Selenium_Driver : INFO : The element to be click with Locator Type:xpath and locator as ://input[@id= 'email']is clicked
+17/09/2021 , 11:50:41 , AM : Selenium_Driver : INFO : Element found for xpathlocator type and //input[@id ='password']locator
+17/09/2021 , 11:50:42 , AM : Selenium_Driver : INFO : The element to be click with Locator Type:xpath and locator as ://input[@id ='password']is clicked
+17/09/2021 , 11:50:42 , AM : Selenium_Driver : INFO : Element found for xpathlocator type and //input[@class ='btn btn-default btn-block btn-md dynamic-button']locator
+17/09/2021 , 11:50:43 , AM : Selenium_Driver : INFO : The element to be click with Locator Type:xpath and locator as ://input[@class ='btn btn-default btn-block btn-md dynamic-button']is clicked
+17/09/2021 , 11:50:46 , AM : Selenium_Driver : INFO : Element not found for xpathlocator type and //span[contains(text(),'Your username or password is invalid. Please try again.')]locator
+17/09/2021 , 11:51:06 , AM : Selenium_Driver : INFO : Element found for xpathlocator type and //a[@href = '/login']locator
+17/09/2021 , 11:51:07 , AM : Selenium_Driver : INFO : The element to be click with Locator Type:xpath and locator as ://a[@href = '/login']is clicked
+17/09/2021 , 11:51:07 , AM : Selenium_Driver : INFO : Element found for xpathlocator type and //input[@id= 'email']locator
+17/09/2021 , 11:51:07 , AM : Selenium_Driver : INFO : The element to be click with Locator Type:xpath and locator as ://input[@id= 'email']is clicked
+17/09/2021 , 11:51:07 , AM : Selenium_Driver : INFO : Element found for xpathlocator type and //input[@id ='password']locator
+17/09/2021 , 11:51:07 , AM : Selenium_Driver : INFO : The element to be click with Locator Type:xpath and locator as ://input[@id ='password']is clicked
+17/09/2021 , 11:51:07 , AM : Selenium_Driver : INFO : Element found for xpathlocator type and //input[@class ='btn btn-default btn-block btn-md dynamic-button']locator
+17/09/2021 , 11:51:28 , AM : Selenium_Driver : INFO : The element to be click with Locator Type:xpath and locator as ://input[@class ='btn btn-default btn-block btn-md dynamic-button']is clicked
+17/09/2021 , 11:51:28 , AM : Util : INFO : Actual Text From Application Web UI --> :: My Courses
+17/09/2021 , 11:51:28 , AM : Util : INFO : Expected Text From Application Web UI --> :: My Courses
+17/09/2021 , 11:51:28 , AM : Util : INFO : ### VERIFICATION CONTAINS !!!
+17/09/2021 , 11:51:28 , AM : TestStatus : INFO : ### VERIFICATION SUCCESSFUL :: + The title doesn't match the expected title
+17/09/2021 , 11:51:28 , AM : Selenium_Driver : INFO : Element found for xpathlocator type and //a[contains(@class,'navbar-brand navbar-logo text-blue')]locator
+17/09/2021 , 11:51:28 , AM : Selenium_Driver : INFO : Element is present
+17/09/2021 , 11:51:28 , AM : TestStatus : INFO : ### VERIFICATION SUCCESSFUL :: + The login failed
+17/09/2021 , 11:51:28 , AM : TestStatus : INFO : test_User_Login_Success ### TEST SUCCESSFUL
+17/09/2021 , 11:51:37 , AM : Selenium_Driver : INFO : Element found for xpathlocator type and //a[@href = '/login']locator
+17/09/2021 , 11:51:39 , AM : Selenium_Driver : INFO : The element to be click with Locator Type:xpath and locator as ://a[@href = '/login']is clicked
+17/09/2021 , 11:51:39 , AM : Selenium_Driver : INFO : Element found for xpathlocator type and //input[@id= 'email']locator
+17/09/2021 , 11:51:40 , AM : Selenium_Driver : INFO : The element to be click with Locator Type:xpath and locator as ://input[@id= 'email']is clicked
+17/09/2021 , 11:51:40 , AM : Selenium_Driver : INFO : Element found for xpathlocator type and //input[@id ='password']locator
+17/09/2021 , 11:51:40 , AM : Selenium_Driver : INFO : The element to be click with Locator Type:xpath and locator as ://input[@id ='password']is clicked
+17/09/2021 , 11:51:40 , AM : Selenium_Driver : INFO : Element found for xpathlocator type and //input[@class ='btn btn-default btn-block btn-md dynamic-button']locator
+17/09/2021 , 11:51:49 , AM : Selenium_Driver : INFO : The element to be click with Locator Type:xpath and locator as ://input[@class ='btn btn-default btn-block btn-md dynamic-button']is clicked
+17/09/2021 , 11:51:49 , AM : Util : INFO : Actual Text From Application Web UI --> :: My Courses
+17/09/2021 , 11:51:49 , AM : Util : INFO : Expected Text From Application Web UI --> :: My Courses
+17/09/2021 , 11:51:49 , AM : Util : INFO : ### VERIFICATION CONTAINS !!!
+17/09/2021 , 11:51:49 , AM : TestStatus : INFO : ### VERIFICATION SUCCESSFUL :: + The title doesn't match the expected title
+17/09/2021 , 11:51:49 , AM : Selenium_Driver : INFO : Element found for xpathlocator type and //a[contains(@class,'navbar-brand navbar-logo text-blue')]locator
+17/09/2021 , 11:51:49 , AM : Selenium_Driver : INFO : Element is present
+17/09/2021 , 11:51:49 , AM : TestStatus : INFO : ### VERIFICATION SUCCESSFUL :: + The login failed
+17/09/2021 , 11:51:49 , AM : TestStatus : INFO : test_User_Login_Success ### TEST SUCCESSFUL
+17/09/2021 , 11:51:52 , AM : Selenium_Driver : INFO : Element not found for xpathlocator type and //a[@href = '/login']locator
+17/09/2021 , 11:51:52 , AM : Selenium_Driver : INFO : Element not found
+17/09/2021 , 11:51:52 , AM : Selenium_Driver : INFO : Element found for xpathlocator type and //input[@id= 'email']locator
+17/09/2021 , 11:51:55 , AM : Selenium_Driver : INFO : Element not found
+17/09/2021 , 11:51:58 , AM : Selenium_Driver : INFO : Element not found for xpathlocator type and //input[@id ='password']locator
+17/09/2021 , 11:51:58 , AM : Selenium_Driver : INFO : Element not found
+17/09/2021 , 11:52:01 , AM : Selenium_Driver : INFO : Element not found for xpathlocator type and //input[@class ='btn btn-default btn-block btn-md dynamic-button']locator
+17/09/2021 , 11:52:02 , AM : Selenium_Driver : INFO : Element not found
+17/09/2021 , 11:52:02 , AM : Util : INFO : Actual Text From Application Web UI --> :: My Courses
+17/09/2021 , 11:52:02 , AM : Util : INFO : Expected Text From Application Web UI --> :: My Courses
+17/09/2021 , 11:52:02 , AM : Util : INFO : ### VERIFICATION CONTAINS !!!
+17/09/2021 , 11:52:02 , AM : TestStatus : INFO : ### VERIFICATION SUCCESSFUL :: + The title doesn't match the expected title
+17/09/2021 , 11:52:02 , AM : Selenium_Driver : INFO : Element found for xpathlocator type and //a[contains(@class,'navbar-brand navbar-logo text-blue')]locator
+17/09/2021 , 11:52:02 , AM : Selenium_Driver : INFO : Element is present
+17/09/2021 , 11:52:02 , AM : TestStatus : INFO : ### VERIFICATION SUCCESSFUL :: + The login failed
+17/09/2021 , 11:52:02 , AM : TestStatus : INFO : test_User_Login_Success ### TEST SUCCESSFUL
+17/09/2021 , 11:52:05 , AM : Selenium_Driver : INFO : Element not found for xpathlocator type and //a[@href = '/login']locator
+17/09/2021 , 11:52:05 , AM : Selenium_Driver : INFO : Element not found
+17/09/2021 , 11:52:05 , AM : Selenium_Driver : INFO : Element found for xpathlocator type and //input[@id= 'email']locator
+17/09/2021 , 11:52:08 , AM : Selenium_Driver : INFO : Element not found
+17/09/2021 , 11:52:11 , AM : Selenium_Driver : INFO : Element not found for xpathlocator type and //input[@id ='password']locator
+17/09/2021 , 11:52:11 , AM : Selenium_Driver : INFO : Element not found
+17/09/2021 , 11:52:14 , AM : Selenium_Driver : INFO : Element not found for xpathlocator type and //input[@class ='btn btn-default btn-block btn-md dynamic-button']locator
+17/09/2021 , 11:52:14 , AM : Selenium_Driver : INFO : Element not found
+17/09/2021 , 11:52:14 , AM : Util : INFO : Actual Text From Application Web UI --> :: My Courses
+17/09/2021 , 11:52:14 , AM : Util : INFO : Expected Text From Application Web UI --> :: My Courses
+17/09/2021 , 11:52:14 , AM : Util : INFO : ### VERIFICATION CONTAINS !!!
+17/09/2021 , 11:52:14 , AM : TestStatus : INFO : ### VERIFICATION SUCCESSFUL :: + The title doesn't match the expected title
+17/09/2021 , 11:52:14 , AM : Selenium_Driver : INFO : Element found for xpathlocator type and //a[contains(@class,'navbar-brand navbar-logo text-blue')]locator
+17/09/2021 , 11:52:14 , AM : Selenium_Driver : INFO : Element is present
+17/09/2021 , 11:52:14 , AM : TestStatus : INFO : ### VERIFICATION SUCCESSFUL :: + The login failed
+17/09/2021 , 11:52:14 , AM : TestStatus : INFO : test_User_Login_Success ### TEST SUCCESSFUL
